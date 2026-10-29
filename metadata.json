@@ -1,0 +1,6 @@
+{
+  "name": "Startup Tech Solutions",
+  "description": "Premium technology solutions for startups, enterprises, and businesses. High-performance web development, mobile apps, ERP systems, AI solutions, and digital growth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /api/admin/
+Disallow: /#/admin
+Disallow: /#/dashboard
+
+Sitemap: https://startuptechsolutions.in/sitemap.xml
